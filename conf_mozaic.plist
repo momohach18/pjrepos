@@ -4,28 +4,6 @@
 <array>
 	<dict>
 		<key>index</key>
-		<integer>7</integer>
-		<key>type</key>
-		<integer>1</integer>
-		<key>label</key>
-		<string>Médecins</string>
-		<key>mnemo</key>
-		<string>MO-MEDEC</string>
-		<key>backgroundColor</key>
-		<string></string>
-		<key>backgroundSelectedColor</key>
-		<string></string>
-		<key>image</key>
-		<string>HP_doctor_enabled.png</string>
-		<key>imageSelected</key>
-		<string>HP_doctor_selected.png</string>
-		<key>labelColor</key>
-		<string></string>
-		<key>labelSelectedColor</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>index</key>
 		<integer>1</integer>
 		<key>type</key>
 		<integer>1</integer>
@@ -41,6 +19,28 @@
 		<string>HP_taxi_enabled.png</string>
 		<key>imageSelected</key>
 		<string>HP_taxi_selected.png</string>
+		<key>labelColor</key>
+		<string></string>
+		<key>labelSelectedColor</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>index</key>
+		<integer>9</integer>
+		<key>type</key>
+		<integer>1</integer>
+		<key>label</key>
+		<string>Hôpitaux</string>
+		<key>mnemo</key>
+		<string>MO-HOPIT</string>
+		<key>backgroundColor</key>
+		<string></string>
+		<key>backgroundSelectedColor</key>
+		<string></string>
+		<key>image</key>
+		<string>HP_hospital_enabled.png</string>
+		<key>imageSelected</key>
+		<string>HP_hospital_selected.png</string>
 		<key>labelColor</key>
 		<string></string>
 		<key>labelSelectedColor</key>
@@ -180,50 +180,6 @@
 	</dict>
 	<dict>
 		<key>index</key>
-		<integer>8</integer>
-		<key>type</key>
-		<integer>3</integer>
-		<key>label</key>
-		<string>Les mieux notés</string>
-		<key>mnemo</key>
-		<string>MA-B2C</string>
-		<key>backgroundColor</key>
-		<string>109,171,255</string>
-		<key>backgroundSelectedColor</key>
-		<string>21,125,251</string>
-		<key>image</key>
-		<string>HP_best_enabled.png</string>
-		<key>imageSelected</key>
-		<string>HP_best_selected.png</string>
-		<key>labelColor</key>
-		<string></string>
-		<key>labelSelectedColor</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>index</key>
-		<integer>9</integer>
-		<key>type</key>
-		<integer>1</integer>
-		<key>label</key>
-		<string>Hôpitaux</string>
-		<key>mnemo</key>
-		<string>MO-HOPIT</string>
-		<key>backgroundColor</key>
-		<string></string>
-		<key>backgroundSelectedColor</key>
-		<string></string>
-		<key>image</key>
-		<string>HP_hospital_enabled.png</string>
-		<key>imageSelected</key>
-		<string>HP_hospital_selected.png</string>
-		<key>labelColor</key>
-		<string></string>
-		<key>labelSelectedColor</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>index</key>
 		<integer>10</integer>
 		<key>type</key>
 		<integer>1</integer>
@@ -305,6 +261,28 @@
 		<string>HP_dentist_enabled.png</string>
 		<key>imageSelected</key>
 		<string>HP_dentist_selected.png</string>
+		<key>labelColor</key>
+		<string></string>
+		<key>labelSelectedColor</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>index</key>
+		<integer>7</integer>
+		<key>type</key>
+		<integer>1</integer>
+		<key>label</key>
+		<string>Médecins</string>
+		<key>mnemo</key>
+		<string>MO-MEDEC</string>
+		<key>backgroundColor</key>
+		<string></string>
+		<key>backgroundSelectedColor</key>
+		<string></string>
+		<key>image</key>
+		<string>HP_doctor_enabled.png</string>
+		<key>imageSelected</key>
+		<string>HP_doctor_selected.png</string>
 		<key>labelColor</key>
 		<string></string>
 		<key>labelSelectedColor</key>
