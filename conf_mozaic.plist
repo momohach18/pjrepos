@@ -8,6 +8,28 @@
 		<key>type</key>
 		<integer>1</integer>
 		<key>label</key>
+		<string>Mairies</string>
+		<key>mnemo</key>
+		<string>MO-MAIRIE</string>
+		<key>backgroundColor</key>
+		<string></string>
+		<key>backgroundSelectedColor</key>
+		<string></string>
+		<key>image</key>
+		<string>HP_townhall_enabled.png</string>
+		<key>imageSelected</key>
+		<string>HP_townhall_selected.png</string>
+		<key>labelColor</key>
+		<string></string>
+		<key>labelSelectedColor</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>index</key>
+		<integer>0</integer>
+		<key>type</key>
+		<integer>1</integer>
+		<key>label</key>
 		<string>Pizzerias</string>
 		<key>mnemo</key>
 		<string>MO-PIZZE</string>
@@ -305,28 +327,6 @@
 		<string>HP_drugstore_enabled.png</string>
 		<key>imageSelected</key>
 		<string>HP_drugstore_selected.png</string>
-		<key>labelColor</key>
-		<string></string>
-		<key>labelSelectedColor</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>index</key>
-		<integer>11</integer>
-		<key>type</key>
-		<integer>1</integer>
-		<key>label</key>
-		<string>Mairies</string>
-		<key>mnemo</key>
-		<string>MO-MAIRIE</string>
-		<key>backgroundColor</key>
-		<string></string>
-		<key>backgroundSelectedColor</key>
-		<string></string>
-		<key>image</key>
-		<string>HP_townhall_enabled.png</string>
-		<key>imageSelected</key>
-		<string>HP_townhall_selected.png</string>
 		<key>labelColor</key>
 		<string></string>
 		<key>labelSelectedColor</key>
